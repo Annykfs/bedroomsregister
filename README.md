@@ -5,10 +5,10 @@ need to implement a validation for the register page to don't accept equal bedro
 
 
 # view
-![](1.png)
+![](images/001.png)
 
 
-![](2.png)
+![](images/002.png)
 
 
-![](3.png)
+![](images/003.png)
