@@ -1,7 +1,8 @@
 # bedroom's register
+A java web page to regist, list, edit and delete information about bedrooms into a database;<br /> 
 
-need to implement a validation for the register page to don't accept equal bedroom's number;<br />
-also adapt JSP to JSTL.
+<br />
+<br />
 
 ![](images/004.png)
 
